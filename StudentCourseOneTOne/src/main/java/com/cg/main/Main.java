@@ -33,6 +33,7 @@ public class Main {
 		//adding just to test
 		
 		int a = 10;
+		int c= 30;
 		int b = 20;
 		
 
