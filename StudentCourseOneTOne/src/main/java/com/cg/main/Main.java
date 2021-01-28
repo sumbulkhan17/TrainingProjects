@@ -32,6 +32,8 @@ public class Main {
 		
 		//adding just to test
 		
+		int a = 10;
+		
 
 	}
 
